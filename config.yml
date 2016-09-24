@@ -1,0 +1,57 @@
+# Define pools of pixelmon items to add to loot tables.
+rolls:
+  min: 2
+  max: 5
+
+loot_tables:
+  abandoned_mineshaft:
+    - Poke_Ball
+    - Leaf_Stone
+    - Fire_Stone
+    - Water_Stone
+    - Sun_Stone
+    - Moon_Stone
+    - Rare_Candy
+  desert_pyramid:
+    - Poke_Ball
+    - Moon_Stone
+  end_city_treasure:
+    - Poke_Ball
+    - Dawn_Stone
+    - Dusk_Stone
+  igloo_chest:
+    - Poke_Ball
+    - Water_Stone
+  jungle_temple:
+    - Poke_Ball
+    - Leaf_Stone
+    - Sun_Stone
+  jungle_temple_dispenser:
+    - Poke_Ball
+    - Rare_Candy
+  nether_bridge:
+    - Poke_Ball
+    - Fire_Stone
+    - Rare_Candy
+  simple_dungeon:
+    - Poke_Ball
+    - Water_Stone
+    - Dawn_Stone
+    - Dusk_Stone
+  spawn_bonus_chest:
+    - Poke_Ball
+    - Rare_Candy
+  stronghold_corridor:
+    - Poke_Ball
+  stronghold_crossing:
+    - Poke_Ball
+  stronghold_library:
+    - Poke_Ball
+    - Dawn_Stone
+    - Dusk_Stone
+  village_blacksmith:
+    - Poke_Ball
+    - Leaf_Stone
+    - Fire_Stone
+    - Sun_Stone
+    - Moon_Stone
