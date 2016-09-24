@@ -23,6 +23,22 @@ These loot tables add the following Pixelmon items to various chests:
 - Rare Candies
 
 
+## Download and Install
+Empty world downloads containing the loot tables can be found in
+[releases](https://github.com/BrowncoatShadow/pixelmon-loot-tables/releases).
+
+### Existing World
+Unzip and copy the `data/` directory into your world folder. Choose to merge if
+prompted.
+
+### New World
+Unzip and copy the `world/` directory to where your worlds are saved.
+- **Server Multiplayer:** Rename the directory to match the `level-name` from
+  your `server.properties` file.
+- **Singleplayer:** Rename the directory to match the name of the single player
+  world you are going to create in your Minecraft client.
+
+
 ## Building and Installing From Source
 ### Requirements
 - `ruby >= 2.0.0`
