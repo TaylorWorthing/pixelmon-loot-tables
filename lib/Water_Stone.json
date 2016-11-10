@@ -1,6 +1,6 @@
 {
   "type": "item",
-  "name": "pixelmon:item.Poke_Ball",
+  "name": "pixelmon:poke_ball",
   "weight": 20,
   "functions": [
     {

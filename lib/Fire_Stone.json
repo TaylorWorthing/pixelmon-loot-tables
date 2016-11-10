@@ -1,6 +1,6 @@
 {
   "type": "item",
-  "name": "pixelmon:item.Fire_Stone",
+  "name": "pixelmon:fire_stone",
   "weight": 20,
   "functions": [
     {

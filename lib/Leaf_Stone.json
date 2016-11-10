@@ -1,6 +1,6 @@
 {
   "type": "item",
-  "name": "pixelmon:item.Leaf_Stone",
+  "name": "pixelmon:leaf_stone",
   "weight": 10,
   "functions": [
     {

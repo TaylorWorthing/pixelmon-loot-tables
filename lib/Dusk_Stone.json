@@ -1,6 +1,6 @@
 {
   "type": "item",
-  "name": "pixelmon:item.Dusk_Stone",
+  "name": "pixelmon:dusk_stone",
   "weight": 3,
   "functions": [
     {

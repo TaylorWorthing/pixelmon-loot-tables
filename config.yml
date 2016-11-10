@@ -5,53 +5,53 @@ rolls:
 
 loot_tables:
   abandoned_mineshaft:
-    - Poke_Ball
-    - Leaf_Stone
-    - Fire_Stone
-    - Water_Stone
-    - Sun_Stone
-    - Moon_Stone
-    - Rare_Candy
+    - poke_ball
+    - leaf_stone
+    - fire_stone
+    - water_stone
+    - sun_stone
+    - moon_stone
+    - rare_candy
   desert_pyramid:
-    - Poke_Ball
-    - Moon_Stone
+    - poke_ball
+    - moon_stone
   end_city_treasure:
-    - Poke_Ball
-    - Dawn_Stone
-    - Dusk_Stone
+    - poke_ball
+    - dawn_stone
+    - dusk_stone
   igloo_chest:
-    - Poke_Ball
-    - Water_Stone
+    - poke_ball
+    - water_stone
   jungle_temple:
-    - Poke_Ball
-    - Leaf_Stone
-    - Sun_Stone
+    - poke_ball
+    - leaf_stone
+    - sun_stone
   jungle_temple_dispenser:
-    - Poke_Ball
-    - Rare_Candy
+    - poke_ball
+    - rare_candy
   nether_bridge:
-    - Poke_Ball
-    - Fire_Stone
-    - Rare_Candy
+    - poke_ball
+    - fire_stone
+    - rare_candy
   simple_dungeon:
-    - Poke_Ball
-    - Water_Stone
-    - Dawn_Stone
-    - Dusk_Stone
+    - poke_ball
+    - water_stone
+    - dawn_stone
+    - dusk_stone
   spawn_bonus_chest:
-    - Poke_Ball
-    - Rare_Candy
+    - poke_ball
+    - rare_candy
   stronghold_corridor:
-    - Poke_Ball
+    - poke_ball
   stronghold_crossing:
-    - Poke_Ball
+    - poke_ball
   stronghold_library:
-    - Poke_Ball
-    - Dawn_Stone
-    - Dusk_Stone
+    - poke_ball
+    - dawn_stone
+    - dusk_stone
   village_blacksmith:
-    - Poke_Ball
-    - Leaf_Stone
-    - Fire_Stone
-    - Sun_Stone
-    - Moon_Stone
+    - poke_ball
+    - leaf_stone
+    - fire_stone
+    - sun_stone
+    - moon_stone

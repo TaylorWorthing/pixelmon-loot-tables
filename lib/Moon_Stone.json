@@ -1,6 +1,6 @@
 {
   "type": "item",
-  "name": "pixelmon:item.Moon_Stone",
+  "name": "pixelmon:moon_stone",
   "weight": 10,
   "functions": [
     {

@@ -1,6 +1,6 @@
 {
   "type": "item",
-  "name": "pixelmon:item.Thunder_Stone",
+  "name": "pixelmon:thunder_stone",
   "weight": 10,
   "functions": [
     {

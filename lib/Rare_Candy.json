@@ -1,6 +1,6 @@
 {
   "type": "item",
-  "name": "pixelmon:item.Rare_Candy",
+  "name": "pixelmon:rare_candy",
   "weight": 4,
   "functions": [
     {
